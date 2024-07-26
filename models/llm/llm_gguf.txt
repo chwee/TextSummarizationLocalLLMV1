@@ -1,0 +1,8 @@
+mistral-7b-instruct-v0.1.Q6_K
+https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q6_K.gguf
+
+gemma-7b-it.q6_K
+https://huggingface.co/asedmammad/gemma-7b-it-GGUF/blob/main/gemma-7b-it.q6_K.gguf
+
+orca-2-7b.Q6_K
+https://huggingface.co/TheBloke/Orca-2-7B-GGUF/blob/main/orca-2-7b.Q6_K.gguf
